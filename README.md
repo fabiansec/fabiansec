@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </br>
 
 - Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
-<p>
+<p align ="center"> 
   <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
