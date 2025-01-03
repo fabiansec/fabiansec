@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align ="center">
-<h3> CyberSecurity Junior | Red-Team/Pentester | HTB Player </h3> 
+<h3> CyberSecurity Junior | Red-Team/Pentester | HTB Player | Software Developer </h3> 
       <h4>My Hack The Box Profile</h4>
   <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/894909">
 <img src="ht_status.png" alt="Hack The Box Profile"></a>
